@@ -1,4 +1,4 @@
-# Task 01: Interactive Quiz Game Application
+# Interactive Quiz Game Application
 
 An interactive web-based Multiple-Choice Quiz Game application developed as part of my Web Development Internship. The application dynamically renders different types of questions, handles user responses, and tracks the score in real-time.
 
